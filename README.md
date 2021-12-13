@@ -4,9 +4,11 @@
 
 Solscan линк [линк](https://solscan.io/token/E2EQNjDyUqMXKj8G6JgyBrT7QtxuA4puPuFYB75QkdE8)
 
-- Token adress: E2EQNjDyUqMXKj8G6JgyBrT7QtxuA4puPuFYB75QkdE8
-- Total Supply: 1701000
-- Decimals: 9
+- Token adresa: E2EQNjDyUqMXKj8G6JgyBrT7QtxuA4puPuFYB75QkdE8
+- Token Ime: ISI Coin 
+- Token Simbol: ISI
+- Ukupan broj tokena: 1701000
+- Broj decimala: 9
 
 ## Solana blockchain
 
