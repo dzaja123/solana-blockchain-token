@@ -1,4 +1,4 @@
-# Токен на Solana blockchain мрежи
+# Тест токен на Solana blockchain мрежи
 
 ## О токену
 
